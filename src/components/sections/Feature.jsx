@@ -1,5 +1,5 @@
 import React from 'react';
-import shot from '../../styles/img/night_shot.jpg';
+import shot from '../../styles/img/portfolio_site_1.png';
 
 const Feature = (props) => {
     const {featured} = props

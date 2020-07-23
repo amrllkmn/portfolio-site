@@ -215,6 +215,14 @@ img {
   border-style: none;
 }
 
+.logo{
+  width:40px;
+  height:40px;
+  vertical-align: middle;
+  border-style: none;
+
+}
+
 svg {
   overflow: hidden;
   vertical-align: middle;
