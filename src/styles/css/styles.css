@@ -216,8 +216,8 @@ img {
 }
 
 .logo{
-  width:40px;
-  height:40px;
+  width:42px;
+  height:42px;
   vertical-align: middle;
   border-style: none;
 
@@ -234,13 +234,7 @@ table {
 
 caption {
   padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-  color: #6c757d;
-  text-align: left;
-  caption-side: bottom;
-}
 
-th {
   text-align: inherit;
 }
 
